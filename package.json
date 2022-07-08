@@ -12,6 +12,7 @@
 		"webpack-dev-server": "^4.9.3"
 	},
 	"dependencies": {
-		"firebase": "^9.8.4"
+		"firebase": "^9.8.4",
+		"firebase-tools": "^11.2.1"
 	}
 }
